@@ -1,0 +1,3 @@
+set_type,users_count,avg_set_size,median_set_size,min_set_size,max_set_size
+disliked_rating_le_2,172115,22.7660575777823,7,1,4759
+liked_rating_ge_4,200338,78.8414479529595,42,1,3650
